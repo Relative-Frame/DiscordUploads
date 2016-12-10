@@ -1,2 +1,2 @@
-Hello, whomever decides to read such a mundane README file, this is the first upload to GitHub.
+Any changes to any of the repoitory or its assets is updated and reorded per the discretion of the author. 
  
